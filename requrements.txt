@@ -1,0 +1,7 @@
+pandas
+numpy
+cassandra-driver
+mysql-connector-python
+sqlalchemy
+kafka-confluent
+pyspark
